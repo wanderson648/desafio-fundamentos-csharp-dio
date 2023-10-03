@@ -1,0 +1,14 @@
+C:\Users\Wanderson\Desktop\api-demo\SistemaDeEstacionamento\SistemaDeEstacionamento\bin\Debug\net6.0\SistemaDeEstacionamento.exe
+C:\Users\Wanderson\Desktop\api-demo\SistemaDeEstacionamento\SistemaDeEstacionamento\bin\Debug\net6.0\SistemaDeEstacionamento.deps.json
+C:\Users\Wanderson\Desktop\api-demo\SistemaDeEstacionamento\SistemaDeEstacionamento\bin\Debug\net6.0\SistemaDeEstacionamento.runtimeconfig.json
+C:\Users\Wanderson\Desktop\api-demo\SistemaDeEstacionamento\SistemaDeEstacionamento\bin\Debug\net6.0\SistemaDeEstacionamento.dll
+C:\Users\Wanderson\Desktop\api-demo\SistemaDeEstacionamento\SistemaDeEstacionamento\bin\Debug\net6.0\SistemaDeEstacionamento.pdb
+C:\Users\Wanderson\Desktop\api-demo\SistemaDeEstacionamento\SistemaDeEstacionamento\obj\Debug\net6.0\SistemaDeEstacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wanderson\Desktop\api-demo\SistemaDeEstacionamento\SistemaDeEstacionamento\obj\Debug\net6.0\SistemaDeEstacionamento.AssemblyInfoInputs.cache
+C:\Users\Wanderson\Desktop\api-demo\SistemaDeEstacionamento\SistemaDeEstacionamento\obj\Debug\net6.0\SistemaDeEstacionamento.AssemblyInfo.cs
+C:\Users\Wanderson\Desktop\api-demo\SistemaDeEstacionamento\SistemaDeEstacionamento\obj\Debug\net6.0\SistemaDeEstacionamento.csproj.CoreCompileInputs.cache
+C:\Users\Wanderson\Desktop\api-demo\SistemaDeEstacionamento\SistemaDeEstacionamento\obj\Debug\net6.0\SistemaDeEstacionamento.dll
+C:\Users\Wanderson\Desktop\api-demo\SistemaDeEstacionamento\SistemaDeEstacionamento\obj\Debug\net6.0\refint\SistemaDeEstacionamento.dll
+C:\Users\Wanderson\Desktop\api-demo\SistemaDeEstacionamento\SistemaDeEstacionamento\obj\Debug\net6.0\SistemaDeEstacionamento.pdb
+C:\Users\Wanderson\Desktop\api-demo\SistemaDeEstacionamento\SistemaDeEstacionamento\obj\Debug\net6.0\SistemaDeEstacionamento.genruntimeconfig.cache
+C:\Users\Wanderson\Desktop\api-demo\SistemaDeEstacionamento\SistemaDeEstacionamento\obj\Debug\net6.0\ref\SistemaDeEstacionamento.dll
